@@ -12,7 +12,7 @@ Joel Scott
 
 ## Background and Context
 
-The Northern Territory School of Distance Education (NTSDE) is based in Darwin, Australia and serves students across an area of approximately 1.42 million km2. With a student population representing some of the most isolated areas in Australia. The school serves students in years 9-12 (ages 13 - 17). The school provides students with access to courses from South Australian Certificate of Education (SACE) syllabuses as well as internally written literacy and numeracy courses.
+The Northern Territory School of Distance Education (NTSDE) is based in Darwin, Australia and serves students across an area of approximately 1.42 million km^2^. With a student population representing some of the most isolated areas in Australia. The school serves students in years 9-12 (ages 13 - 17). The school provides students with access to courses from South Australian Certificate of Education (SACE) syllabuses as well as internally written literacy and numeracy courses.
 
 With the levels of literacy and numeracy in mind, the school has been working on a range of targeted resources in the Literacy and Numeracy Space. The ‘HEAL’ program aims to support students in reaching an EAL/D level of 4 and an appropriate level of numeracy skill to access the ‘Mathematics Essentials’ stage one (penultimate year) SACE course.
 
@@ -95,7 +95,7 @@ For questions in the grammar portion of the tasks, multiple choice questions whe
 <div class="float-none img-middle">
 <figure class="figure">
 <img class="figure-img img-fluid" src="../Images/Screenshot 2026-01-23 112306.png" alt="Screen shot of a question assessing sentence structure">
-<figcaption class="figure-caption">Figure: Using multiple choice to sentence structure.</figcaption>
+<figcaption class="figure-caption">Figure: Using multiple choice to assess understanding of sentence structure.</figcaption>
 </figure></div>
 
 #### Punctuation
@@ -164,4 +164,5 @@ By randomising scenarios and the results to match specified patterns, we were ab
 </figure></div>
 
 There is still a great deal of scope to develop these tasks further and build a greater range of tasks in each of these spaces. It is too early to comment on student data however given what we know from literature (references) it seems likely that if students are able to access these tools and are supported by teachers to make use of the feedback provided as well as the opportunities to revisit tasks, the long term impact should be significant and positive.
+
 
